@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=<USERNAME>.<USERNAME>" />
 
-# Hi there 👋 Welcome!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Welcome!
 
 ## Hello, my name is Rehana Managuli  
 ### 🚀 Embedded Systems & IoT Learner
