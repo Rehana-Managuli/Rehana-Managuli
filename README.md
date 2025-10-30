@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/6W3NY1y/blue-tech-banner.jpg" alt="Rajab Banner" width="100%">
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJxdjlrZzZ2YzY2aG04N2J4MHFyNzUxYm9nNHJ3eTZkYXdwdjhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" width="150px">
 
 <h1 align="center">Hi there, I'm Rehana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">Embedded Systems Engineer 🇮🇳 | IoT & Real-Time Firmware Developer</h3>
