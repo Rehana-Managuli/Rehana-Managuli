@@ -1,62 +1,78 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=<USERNAME>.<USERNAME>" />
+<!-- Profile Banner -->
+<img src="<BANNER_URL>" width="100%"/>
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Welcome to my GitHub!
+# Hi there, I'm Rehana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
-## 👨‍💻 Hello, my name is Rehana Managuli
-### 🚀 Embedded Systems | IoT | C/C++ Programming
+🚀 **Embedded Engineer**  
+🔍 Passionate about Real-Time Firmware Development & Automotive Electronics  
 
----
-
-🌟 I am an **Embedded Systems Engineer** with a strong interest in  
-**Firmware Development, Real-time Systems & Automotive Communication**  
-
-🔌 Skilled in **C, C++, Microcontroller Programming, UART, SPI, I2C, CAN**  
-🐧 Exploring **Linux Internals, System Programming & Networking**  
-🎓 Completed **Advanced Embedded Systems Training**  
-at *Emertxe Information Technologies, Bengaluru* ✅  
-📍 Based in India 🇮🇳  
+![Profile views](https://komarev.com/ghpvc/?username=Rajab-Sunkad&label=Profile%20views&color=blue&style=for-the-badge)
 
 ---
 
-## 🛠 Technical Skills
+<img align="right" alt="Developer GIF" width="300" 
+src="https://i.imgur.com/q2eXY7Y.gif" />
 
-✅ **Programming:** C, C++, Bash  
-✅ **Microcontrollers:** PIC18F4580, Arduino, ESP32  
-✅ **Protocols:** UART, SPI, I2C, CAN  
-✅ **Embedded Concepts:** Timers, Interrupts, ADC, PWM  
-✅ **OS Knowledge:** Linux (Shell, Processes, System Calls)
+## 👨‍💻 About Me
+
+- 🎓 B.E. in **Electronics & Communication Engineering** (VTU)
+- 🧠 Strong in **C, Embedded C, C++ (OOP), Linux Internals**
+- 🔌 Worked on *Real-Time IoT & Embedded Projects*
+- 💡 Passionate about **Automotive Protocols & Sensor Integration**
+- 🤝 Open to collaborations in **Firmware / IoT / Automotive**
 
 ---
 
-## 🔧 Tools & Platforms
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+| Category | Skills |
+|---------|--------|
+| **Languages** | C, C++, Embedded C, Shell Scripting |
+| **Microcontrollers** | PIC18F4580, Arduino UNO/Nano |
+| **Communication** | UART, SPI, I2C, CAN |
+| **Embedded Concepts** | Timers, ADC, ISR, PWM |
+| **Tools** | GCC, GDB, MPLAB X, VS Code |
+| **Linux** | IPC, Threads, Sockets, System Calls |
+
+---
+
+## 🔥 Major Projects
+
+📌 *Click any project to explore the code*
+  
+- 🚗 **Car Black Box** — Event recorder using PIC18F4580  
+- 🧪 **MiniShell** — Commands + foreground/background processes  
+- 🖼 **Image Steganography** — Hide data in BMP images  
+- 🎵 **MP3 Tag Reader** — ID3 info extraction  
+- 🔢 **Arbitrary Precision Calculator** — Big integer operations  
+- 🔍 **Inverted Search Engine** — Hash-based index searching  
+
+➡️ *(More projects uploading soon…)*  
+
+---
+
+## 🏆 Achievements
+
+✔️ **Advanced Embedded Systems Certification** — Emertxe    
+📡 **LoRaWAN Webinar Participant — IoT Innovation**  
+🎓 Certified — **Embedded Systems & IoT** (Contriver)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rajab-Sunkad&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajab-Sunkad&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## ⭐ Professional Highlights
+## 🌐 Connect With Me
 
-- Built multiple real-time Embedded & IoT projects 🔥  
-- Strong debugging and hardware interfacing skills  
-- Interested in Firmware & Automotive Embedded Systems  
-- Team player with hands-on learning attitude ✅  
+📧 **rajabjsunkad3@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/rajab-sunkad-b9040b270/  
 
 ---
 
-## 📫 Connect With Me
-
-📧 Email: **rehanamanaguli@gmail.com**  
-🔗 LinkedIn: **https://linkedin.com/in/<your-link>**
-
----
-
-## 🚀 Motto
-⭐ *“Building smart solutions using tiny devices!”*
+⭐ *“Turning ideas into firmware, one line of code at a time!”*
