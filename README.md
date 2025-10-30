@@ -43,8 +43,8 @@
 ---
 
 ### 📫 Contact Me
-📧 Email: yourmail@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/<your_link>
+📧 Email: rehanamanaguli@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rehana-managuli
 
 ---
 
