@@ -1,78 +1,70 @@
 <!-- Profile Banner -->
-<img src="<BANNER_URL>" width="100%"/>
+<p align="center">
+  <img src="https://i.ibb.co/6W3NY1y/blue-tech-banner.jpg" alt="Rajab Banner" width="100%">
+</p>
 
-# Hi there, I'm Rehana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
-
-🚀 **Embedded Engineer**  
-🔍 Passionate about Real-Time Firmware Development & Automotive Electronics  
-
-![Profile views](https://komarev.com/ghpvc/?username=Rajab-Sunkad&label=Profile%20views&color=blue&style=for-the-badge)
-
----
-
-<img align="right" alt="Developer GIF" width="300" 
-src="https://i.imgur.com/q2eXY7Y.gif" />
-
-## 👨‍💻 About Me
-
-- 🎓 B.E. in **Electronics & Communication Engineering** (VTU)
-- 🧠 Strong in **C, Embedded C, C++ (OOP), Linux Internals**
-- 🔌 Worked on *Real-Time IoT & Embedded Projects*
-- 💡 Passionate about **Automotive Protocols & Sensor Integration**
-- 🤝 Open to collaborations in **Firmware / IoT / Automotive**
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Skills |
-|---------|--------|
-| **Languages** | C, C++, Embedded C, Shell Scripting |
-| **Microcontrollers** | PIC18F4580, Arduino UNO/Nano |
-| **Communication** | UART, SPI, I2C, CAN |
-| **Embedded Concepts** | Timers, ADC, ISR, PWM |
-| **Tools** | GCC, GDB, MPLAB X, VS Code |
-| **Linux** | IPC, Threads, Sockets, System Calls |
-
----
-
-## 🔥 Major Projects
-
-📌 *Click any project to explore the code*
-  
-- 🚗 **Car Black Box** — Event recorder using PIC18F4580  
-- 🧪 **MiniShell** — Commands + foreground/background processes  
-- 🖼 **Image Steganography** — Hide data in BMP images  
-- 🎵 **MP3 Tag Reader** — ID3 info extraction  
-- 🔢 **Arbitrary Precision Calculator** — Big integer operations  
-- 🔍 **Inverted Search Engine** — Hash-based index searching  
-
-➡️ *(More projects uploading soon…)*  
-
----
-
-## 🏆 Achievements
-
-✔️ **Advanced Embedded Systems Certification** — Emertxe    
-📡 **LoRaWAN Webinar Participant — IoT Innovation**  
-🎓 Certified — **Embedded Systems & IoT** (Contriver)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi there, I'm Rajab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h3 align="center">Embedded Systems Engineer 🇮🇳 | IoT & Real-Time Firmware Developer</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rajab-Sunkad&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rajab-Sunkad&theme=tokyonight" height="165"/>
+  <img src="https://komarev.com/ghpvc/?username=Rajab-Sunkad&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-📧 **rehanamanaguli@gmail.com**  
-🔗 **LinkedIn:**   
+### 👨‍💻 About Me  
+- 🎓 B.E. in **Electronics & Communication Engineering** (VTU)  
+- 🔧 Skilled in **Embedded C, C++, PIC18F4580, Linux Internals, Communication Protocols (UART, SPI, I2C, CAN)**  
+- 💡 Passionate about building **real-time embedded solutions**  
+- 🚀 Keen to explore **Automotive Electronics & Embedded Systems**    
 
 ---
 
-⭐ *“Turning ideas into firmware, one line of code at a time!”*
+### 🛠️ Tech Stack  
+| Category | Skills |
+|---------|--------|
+| **Languages** | C, C++, Embedded C, Shell Scripting |
+| **Microcontrollers** | PIC18F4580, Arduino UNO/Nano |
+| **Protocols** | UART, SPI, I2C, CAN |
+| **Tools/IDEs** | GCC, MPLAB X, GDB, Arduino IDE |
+| **Linux** | System Calls, IPC, Sockets, Multithreading |
+| **Core** | Data Structures, Debugging |
+
+---
+
+### 🔥 Projects  
+- 🛰️ **Car Black Box** – Event data recorder using PIC18F4580  
+- 💻 **MiniShell** – Linux shell with process & signal handling  
+- 🖼️ **Image Steganography** – BMP image LSB encode/decode  
+- 🎵 **MP3 Tag Reader** – Extract ID3 metadata  
+- 📑 **Lexical Analyzer** – Tokenizes C source code  
+- 🔢 **Arbitrary Precision Calculator** – Big number arithmetic  
+- 🔎 **Inverted Search** – Search engine using Hash Tables  
+
+---
+
+### 🏆 Achievements  
+- 🎓 **Advanced Embedded Systems Certification** – Emertxe (2025)  
+- 🏅 Shortlisted for **RGEP 2024**  
+- 📜 **Embedded Systems & IoT Certified** – Contriver  
+- 📡 LoRaWAN IoT Webinar Attendee  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajab-Sunkad&show_icons=true&theme=blueberry" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajab-Sunkad&theme=blueberry" height="165"/>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+📧 **rehanamanaguli3@gmail.com**  
+🔗 LinkedIn: *Coming soon…*  
+
+---
+
+⭐️ *“Turning ideas into firmware, one line of code at a time!”*  
