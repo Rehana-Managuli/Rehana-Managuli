@@ -1,9 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/6W3NY1y/blue-tech-banner.jpg" alt="Rajab Banner" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Rajab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h1 align="center">Hi there, I'm Rehana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">Embedded Systems Engineer 🇮🇳 | IoT & Real-Time Firmware Developer</h3>
 
 <p align="center">
@@ -23,6 +22,10 @@
 ---
 
 ### 🛠️ Tech Stack  
+
+<img align="right" alt="Embedded Chip" width="250"
+src="https://i.ibb.co/4g7n1XJ/mcu-tech.gif" />
+
 | Category | Skills |
 |---------|--------|
 | **Languages** | C, C++, Embedded C, Shell Scripting |
@@ -31,6 +34,7 @@
 | **Tools/IDEs** | GCC, MPLAB X, GDB, Arduino IDE |
 | **Linux** | System Calls, IPC, Sockets, Multithreading |
 | **Core** | Data Structures, Debugging |
+
 
 ---
 
