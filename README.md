@@ -70,8 +70,8 @@ src="https://i.imgur.com/q2eXY7Y.gif" />
 
 ## 🌐 Connect With Me
 
-📧 **rajabjsunkad3@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/rajab-sunkad-b9040b270/  
+📧 **rehanamanaguli@gmail.com**  
+🔗 **LinkedIn:**   
 
 ---
 
