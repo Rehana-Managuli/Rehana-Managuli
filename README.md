@@ -1,13 +1,15 @@
 <!-- Profile Banner -->
 <p align="center">
+  <img src="https://i.ibb.co/6W3NY1y/blue-tech-banner.jpg" alt="Rajab Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Rehana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">Embedded Systems Engineer 🇮🇳 | IoT & Real-Time Firmware Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajab-Sunkad&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rehana-Managuli&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
+
 
 ---
 
@@ -43,7 +45,6 @@ src="https://i.ibb.co/4g7n1XJ/mcu-tech.gif" />
 - 💻 **MiniShell** – Linux shell with process & signal handling  
 - 🖼️ **Image Steganography** – BMP image LSB encode/decode  
 - 🎵 **MP3 Tag Reader** – Extract ID3 metadata  
-- 📑 **Lexical Analyzer** – Tokenizes C source code  
 - 🔢 **Arbitrary Precision Calculator** – Big number arithmetic  
 - 🔎 **Inverted Search** – Search engine using Hash Tables  
 
